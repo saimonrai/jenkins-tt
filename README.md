@@ -1,4 +1,4 @@
-jenkins-tt - Dev branch
+jenkins-tt - Test branch
 ==========
 
 Jenkins CI 
