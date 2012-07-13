@@ -1,5 +1,4 @@
-jenkins-tt
+jenkins-tt - Master branch
 ==========
-test
 
 Jenkins CI 
